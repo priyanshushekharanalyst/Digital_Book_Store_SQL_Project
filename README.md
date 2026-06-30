@@ -1,1 +1,1 @@
-# Digital_Book_Store_SQL_Project
+# Digital Bookstore Database & Business Insights with SQL
