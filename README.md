@@ -47,18 +47,11 @@ The database follows a relational structure where:
 
 ---
 
-# 🔗 Entity Relationships
+# Entity Relationships
 
-```
-Customers (1)
-      │
-      │
-      ▼
-Orders (Many)
-      ▲
-      │
-      │
-Books (1)
+1[Schemas] ()
+
+
 ```
 
 ### Relationships
@@ -74,14 +67,13 @@ Books (1)
 # 🛠️ Tools & Technologies
 
 - PostgreSQL
-- SQL
+- MS Excel
 - pgAdmin 4
-- Git
 - GitHub
 
 ---
 
-# 📚 SQL Concepts Demonstrated
+# SQL Concepts Demonstrated
 
 This project includes practical implementation of:
 
@@ -102,11 +94,11 @@ This project includes practical implementation of:
 
 ---
 
-# 📊 Business Questions Answered
+# Business Questions Answered
 
 The SQL analysis answers several business-focused questions, including:
 
-### 📖 Books Analysis
+### Books Analysis
 
 - Retrieve books by genre.
 - Find books published after a specific year.
@@ -114,14 +106,14 @@ The SQL analysis answers several business-focused questions, including:
 - Find books with low inventory.
 - Calculate average book prices by genre.
 
-### 👤 Customer Analysis
+### Customer Analysis
 
 - Identify customers from specific countries.
 - Find customers who placed multiple orders.
 - Identify highest spending customers.
 - Analyze customer purchasing behavior.
 
-### 💰 Sales Analysis
+### Sales Analysis
 
 - Calculate total revenue.
 - Determine monthly sales trends.
@@ -130,28 +122,28 @@ The SQL analysis answers several business-focused questions, including:
 - Identify top-selling authors.
 - Evaluate city-wise sales performance.
 
-### 📦 Inventory Analysis
+### Inventory Analysis
 
 - Calculate remaining stock after sales.
 - Identify books that require restocking.
 
 ---
 
-# 📈 Key Business Insights
+# Key Business Insights
 
 Using SQL, the project provides insights such as:
 
-- 📚 Best-selling books and genres
-- 💰 Revenue generated from book sales
-- 👤 High-value customers
-- 📦 Inventory availability
-- 📍 Top-performing cities
-- ✍️ Best-selling authors
-- 📊 Customer purchasing trends
+- Best-selling books and genres
+- Revenue generated from book sales
+- High-value customers
+- Inventory availability
+- Top-performing cities
+- Best-selling authors
+- Customer purchasing trends
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Digital-Bookstore-Business-Analysis/
@@ -177,56 +169,17 @@ Digital-Bookstore-Business-Analysis/
 
 ---
 
-# 💼 Skills Demonstrated
+Skills Demonstrated
 
 This project highlights proficiency in:
 
-- SQL Programming
-- PostgreSQL
-- Database Design
-- Relational Database Management
-- Data Cleaning
-- Data Exploration
-- Business Analytics
-- Sales Analysis
-- Customer Analytics
-- Inventory Analysis
-- Data Interpretation
-- Problem Solving
+- SQL Programming, PostgreSQL, Database Design, Relational Database Management, Data Cleaning, Business Analytics, Sales Analysis & Data Interpretation.
 
 ---
 
-# 🚀 Learning Outcomes
 
-Through this project, I gained practical experience in:
-
-- Designing relational databases
-- Importing and managing datasets
-- Writing optimized SQL queries
-- Performing business-oriented data analysis
-- Extracting meaningful insights from transactional data
-- Applying SQL to solve real-world business problems
-
----
-
-# 🎯 Ideal For
-
-This project demonstrates skills relevant to the following roles:
-
-- Business Analyst
-- Data Analyst
-- SQL Developer
-- Business Intelligence Analyst
-- Reporting Analyst
-- Management Trainee
-
----
-
-# 📌 Conclusion
+# Conclusion
 
 This project demonstrates the practical application of SQL in analyzing business data and generating actionable insights for decision-making. It showcases my ability to work with relational databases, write efficient SQL queries, and solve real-world business problems using data.
 
----
-
-## ⭐ If you found this project helpful, consider giving it a Star!
 
