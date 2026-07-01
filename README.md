@@ -2,7 +2,7 @@
 
 > An end-to-end SQL portfolio project demonstrating database design, data loading, business analysis, and insight generation using PostgreSQL
 
-# 📖 Project Overview
+# Project Overview
 
 The **Digital Bookstore Business Analysis** project demonstrates how SQL can be used to solve real-world business problems by analyzing transactional data from an online bookstore.
 The project involves designing a relational database, importing datasets into PostgreSQL, and writing SQL queries to answer business questions related to customers, sales, inventory, and revenue.
@@ -21,7 +21,7 @@ The primary objectives of this project are to:
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The database consists of three relational tables.
 
@@ -33,7 +33,7 @@ The database consists of three relational tables.
 
 ---
 
-# 🗄️ Database Schema (ER Diagram)
+# Database Schema (ER Diagram)
 
 The database follows a relational structure where:
 
@@ -45,14 +45,7 @@ The database follows a relational structure where:
 <img src="Images/ER_Diagram.png" width="800">
 </p>
 
----
-
-# Entity Relationships
-
-1[Schemas] ()
-
-
-```
+1[Schemas] (https://github.com/priyanshushekharanalyst/Digital_Book_Store_SQL_Project/blob/main/Screenshot%202026-07-01%20115053.png)
 
 ### Relationships
 
@@ -64,7 +57,7 @@ The database follows a relational structure where:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 - PostgreSQL
 - MS Excel
@@ -176,7 +169,6 @@ This project highlights proficiency in:
 - SQL Programming, PostgreSQL, Database Design, Relational Database Management, Data Cleaning, Business Analytics, Sales Analysis & Data Interpretation.
 
 ---
-
 
 # Conclusion
 
