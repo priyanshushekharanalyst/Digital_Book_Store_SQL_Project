@@ -45,7 +45,7 @@ The database follows a relational structure where:
 <img src="Images/ER_Diagram.png" width="800">
 </p>
 
-1[Schemas] (https://github.com/priyanshushekharanalyst/Digital_Book_Store_SQL_Project/blob/main/Screenshot%202026-07-01%20115053.png)
+![Schemas](https://github.com/priyanshushekharanalyst/Digital_Book_Store_SQL_Project/blob/main/Screenshot%202026-07-01%20115053.png)
 
 ### Relationships
 
